@@ -1,0 +1,4 @@
+c:\Users\graha\Documents\programming\radio\radio\obj\Debug\net8.0\radio.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\graha\Documents\programming\radio\radio\obj\Debug\net8.0\radio.AssemblyInfoInputs.cache
+c:\Users\graha\Documents\programming\radio\radio\obj\Debug\net8.0\radio.AssemblyInfo.cs
+c:\Users\graha\Documents\programming\radio\radio\obj\Debug\net8.0\radio.csproj.CoreCompileInputs.cache

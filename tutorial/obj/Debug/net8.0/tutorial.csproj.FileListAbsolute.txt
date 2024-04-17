@@ -1,0 +1,14 @@
+C:\Users\graha\Documents\programming\tutorial\bin\Debug\net8.0\tutorial.exe
+C:\Users\graha\Documents\programming\tutorial\bin\Debug\net8.0\tutorial.deps.json
+C:\Users\graha\Documents\programming\tutorial\bin\Debug\net8.0\tutorial.runtimeconfig.json
+C:\Users\graha\Documents\programming\tutorial\bin\Debug\net8.0\tutorial.dll
+C:\Users\graha\Documents\programming\tutorial\bin\Debug\net8.0\tutorial.pdb
+C:\Users\graha\Documents\programming\tutorial\obj\Debug\net8.0\tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\graha\Documents\programming\tutorial\obj\Debug\net8.0\tutorial.AssemblyInfoInputs.cache
+C:\Users\graha\Documents\programming\tutorial\obj\Debug\net8.0\tutorial.AssemblyInfo.cs
+C:\Users\graha\Documents\programming\tutorial\obj\Debug\net8.0\tutorial.csproj.CoreCompileInputs.cache
+C:\Users\graha\Documents\programming\tutorial\obj\Debug\net8.0\tutorial.dll
+C:\Users\graha\Documents\programming\tutorial\obj\Debug\net8.0\refint\tutorial.dll
+C:\Users\graha\Documents\programming\tutorial\obj\Debug\net8.0\tutorial.pdb
+C:\Users\graha\Documents\programming\tutorial\obj\Debug\net8.0\tutorial.genruntimeconfig.cache
+C:\Users\graha\Documents\programming\tutorial\obj\Debug\net8.0\ref\tutorial.dll

@@ -1,0 +1,14 @@
+C:\Users\graha\Documents\programming\bin\Debug\net8.0\programming.exe
+C:\Users\graha\Documents\programming\bin\Debug\net8.0\programming.deps.json
+C:\Users\graha\Documents\programming\bin\Debug\net8.0\programming.runtimeconfig.json
+C:\Users\graha\Documents\programming\bin\Debug\net8.0\programming.dll
+C:\Users\graha\Documents\programming\bin\Debug\net8.0\programming.pdb
+C:\Users\graha\Documents\programming\obj\Debug\net8.0\programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\graha\Documents\programming\obj\Debug\net8.0\programming.AssemblyInfoInputs.cache
+C:\Users\graha\Documents\programming\obj\Debug\net8.0\programming.AssemblyInfo.cs
+C:\Users\graha\Documents\programming\obj\Debug\net8.0\programming.csproj.CoreCompileInputs.cache
+C:\Users\graha\Documents\programming\obj\Debug\net8.0\programming.dll
+C:\Users\graha\Documents\programming\obj\Debug\net8.0\refint\programming.dll
+C:\Users\graha\Documents\programming\obj\Debug\net8.0\programming.pdb
+C:\Users\graha\Documents\programming\obj\Debug\net8.0\programming.genruntimeconfig.cache
+C:\Users\graha\Documents\programming\obj\Debug\net8.0\ref\programming.dll
